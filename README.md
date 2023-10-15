@@ -1,4 +1,4 @@
-# Flappy-Pig-Game
+# FlappyPig-Game
 
 # Overview
 
